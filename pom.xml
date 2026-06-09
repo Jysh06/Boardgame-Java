@@ -119,8 +119,8 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-production</id>
-            <url>http://13.204.62.31:8081/repository/maven-production/</url>
+            <id>maven-proxy-repo</id>
+            <url>http://13.204.62.31:8081/repository/maven-proxy-repo/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
